@@ -1,3 +1,4 @@
+console.log('Execution starts!!');
 //  Listen for submit 
 document.getElementById("loan-form").addEventListener('submit', function(e){
    // Hide results initially
